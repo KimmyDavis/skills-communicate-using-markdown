@@ -7,3 +7,7 @@ well,
 ``` python
 my_name = [ letter * 2 for letter in "Davis" ]
 ```
+### I'll be doing the following
+- [ ] Learn python
+- [ ] create frameworks, libraries and modules
+- [ ] eat my vegetables
